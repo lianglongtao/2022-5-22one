@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "title" : "全新款手机新上市13Pro 星黛紫【12G运行5G网】 256GB",
+        "price" : 99999,
+        "time" : "2022-5-5",
+        "hot" : 25,
+        "img": "img/7.jpg.avif"
+    },
+    {
+        "id": 1,
+        "title" : "全新款手机新上市13Pro 星黛紫【12G运行5G网】 256GB",
+        "price" : 3999,
+        "time" : "2022-5-15",
+        "hot" : 232,
+        "img": "img/8.jpg.avif"
+    },
+    {
+        "id": 1,
+        "title" : "全新款手机新上市13Pro 星黛紫【12G运行5G网】 256GB",
+        "price" : 520,
+        "time" : "2022-5-10",
+        "hot" : 554,
+        "img": "img/9.jpg.avif"
+    },
+    {
+        "id": 1,
+        "title" : "全新款手机新上市13Pro 星黛紫【12G运行5G网】 256GB",
+        "price" : 6540,
+        "time" : "2022-5-9",
+        "hot" : 335,
+        "img": "img/6.png.avif"
+    },
+    {
+        "id": 1,
+        "title" : "全新款手机新上市13Pro 星黛紫【12G运行5G网】 256GB",
+        "price" : 7844,
+        "time" : "2022-5-1",
+        "hot" : 3822,
+        "img": "img/5.jpg.avif"
+    },
+    {
+        "id": 1,
+        "title" : "全新款手机新上市13Pro 星黛紫【12G运行5G网】 256GB",
+        "price" : 1364,
+        "time" : "2022-5-3",
+        "hot" : 974,
+        "img": "img/1.avif"
+    },
+    {
+        "id": 1,
+        "title" : "全新款手机新上市13Pro 星黛紫【12G运行5G网】 256GB",
+        "price" : 4236,
+        "time" : "2022-5-13",
+        "hot" : 344,
+        "img": "img/2.avif"
+    },
+    {
+        "id": 1,
+        "title" : "全新款手机新上市13Pro 星黛紫【12G运行5G网】 256GB",
+        "price" : 3645,
+        "time" : "2022-5-19",
+        "hot" : 342,
+        "img": "img/3.avif"
+    },
+    {
+        "id": 1,
+        "title" : "全新款手机新上市13Pro 星黛紫【12G运行5G网】 256GB",
+        "price" : 2887,
+        "time" : "2022-5-11",
+        "hot" : 754,
+        "img": "img/4.jpg.avif"
+    },
+    {
+        "id": 1,
+        "title" : "全新款手机新上市13Pro 星黛紫【12G运行5G网】 256GB",
+        "price" : 4654,
+        "time" : "2022-5-4",
+        "hot" : 322,
+        "img": "img/5.jpg.avif"
+    }
+]

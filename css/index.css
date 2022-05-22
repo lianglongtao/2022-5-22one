@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+ul,ol{
+    list-style: none;
+}
+.card-deck{
+    display: flex;
+    flex-wrap: wrap;
+}
+.card-deck .card{
+    flex: 0 0 239px;
+    margin: 10px 10px 10px 10px;
+}
